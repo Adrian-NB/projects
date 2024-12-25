@@ -1,3 +1,5 @@
+//client side logic
+
 let names = [];
 const apiUrl = "https://your-backend-url.com"; // Replace with your backend URL
 
